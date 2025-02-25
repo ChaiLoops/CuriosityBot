@@ -1,0 +1,8 @@
+1. pip install faiss-cpu
+2. pip install langchain pypdf #to load the pdf filw
+3.pip install -qqq -U langchain-huggingface
+4.pip install -qqq -U langchain
+5.pip install -qqq -U langchain-community
+6.pip install -qqq -U faiss-cpu
+7.!pip install -qqq -U langchain
+8.!pip install -qqq "huggingface_hub<0.28"
